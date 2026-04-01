@@ -26,13 +26,13 @@ latest_posts:
 ---
 
 Hi!
-[cite_start]I am an AI Researcher specializing in generative models and event-based vision[cite: 28]. [cite_start]I recently completed my M.S. in Artificial Intelligence at Yonsei University [cite: 7, 8][cite_start], and currently serve as a Graduate Researcher at Seoul National University's Machine Perception and Reasoning Lab[cite: 25, 26]. 
+I am an AI Researcher specializing in generative models and event-based vision. I recently completed my M.S. in Artificial Intelligence at Yonsei University, and currently serve as a Graduate Researcher at Seoul National University's Machine Perception and Reasoning Lab. 
 
-[cite_start]My primary research focuses on mathematically deriving and implementing training-free sampling algorithms to significantly accelerate inference times in diffusion models[cite: 18, 19]. [cite_start]Recently, my work on DBMSolver, a novel diffusion bridge sampler for high-quality image-to-image translation, was accepted to the main track of CVPR 2026[cite: 17]. [cite_start]I also have extensive experience building robust data processing and feature extraction pipelines in PyTorch for asynchronous event-based vision data, as demonstrated in my CVPR 2026 Findings paper, FALCON[cite: 21, 23].
+My primary research focuses on mathematically deriving and implementing training-free sampling algorithms to significantly accelerate inference times in diffusion models. Recently, my work on DBMSolver, a novel diffusion bridge sampler for high-quality image-to-image translation, was accepted to the main track of CVPR 2026. I also have extensive experience building robust data processing and feature extraction pipelines in PyTorch for asynchronous event-based vision data, as demonstrated in my CVPR 2026 Findings paper, FALCON.
 
-Beyond theoretical derivations, I am deeply committed to the engineering side of machine learning. [cite_start]I have a strong foundation in Python, C/C++, and infrastructure tools like Docker and Git [cite: 59, 61][cite_start], alongside full-stack development experience utilizing JavaScript, NodeJS, and Flutter[cite: 46, 48]. 
+Beyond theoretical derivations, I am deeply committed to the engineering side of machine learning. I have a strong foundation in Python, and infrastructure tools like Docker and Git, alongside experiences utilizing JavaScript, NodeJS, and Flutter during my undergrad intership days. 
 
-[cite_start]Having lived and studied in Seoul since 2019 [cite: 16][cite_start], I have achieved a TOPIK Level 6 in Korean[cite: 65]. [cite_start]I am highly comfortable discussing complex technical ML concepts in both English and Korean, having spent over two years conducting rigorous Python and Deep Learning lectures for undergraduate engineering students entirely in Korean[cite: 34, 35, 40].
+Having lived and studied in South Korea since 2018, I have achieved a TOPIK Level 6 in Korean. I am highly comfortable discussing complex technical ML concepts in both English and Korean, having spent over two years conducting rigorous Python and Deep Learning lectures for undergraduate engineering students entirely in Korean.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
