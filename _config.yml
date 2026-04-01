@@ -6,6 +6,11 @@ title: "Sankarshana V" # the website title (if blank, full name will be used ins
 first_name: Sankarshana
 middle_name: 
 last_name: V
+
+email: sankarshana.v@gmail.com
+github_username: limsanky
+linkedin_username: sankarshana-v
+
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -279,8 +284,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Venugopal]
+  first_name: [Sankarshana]
 
   style: apa
   locale: en
