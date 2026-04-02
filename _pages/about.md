@@ -30,7 +30,7 @@ I am an AI Researcher specializing in generative models and event-based vision. 
 
 My primary research focuses on mathematically deriving and implementing training-free sampling algorithms to significantly accelerate inference times in diffusion models. Recently, my work on DBMSolver, a novel diffusion bridge sampler for high-quality image-to-image translation, was accepted to the main track of CVPR 2026. I also have extensive experience building robust data processing and feature extraction pipelines in PyTorch for asynchronous event-based vision data, as demonstrated in my CVPR 2026 Findings paper, FALCON.
 
-Beyond theoretical derivations, I am deeply committed to the engineering side of machine learning. I have a strong foundation in Python, and infrastructure tools like Docker and Git, alongside experiences utilizing JavaScript, NodeJS, and Flutter during my undergrad intership days. 
+Beyond theoretical derivations, I am deeply committed to the engineering side of machine learning. I have a strong foundation in Python, and infrastructure tools like Docker and Git, alongside experiences utilizing JavaScript, NodeJS, and Flutter during my undergrad internship days. 
 
 Having lived and studied in South Korea since 2018, I have achieved a TOPIK Level 6 in Korean. I am highly comfortable discussing complex technical ML concepts in both English and Korean, having spent over two years conducting rigorous Python and Deep Learning lectures for undergraduate engineering students entirely in Korean.
 
