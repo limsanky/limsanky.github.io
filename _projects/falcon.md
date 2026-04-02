@@ -8,6 +8,7 @@ category: Event-Based Vision
 ---
 
 **Status:** Accepted to CVPR 2026 Findings Track.
+
 *Note: Full source code and manuscript will be made public upon the lifting of the conference embargo.*
 
 ### Project Overview
@@ -24,7 +25,6 @@ FALCON establishes a new real-time benchmark for neuromorphic vision application
 * **MVSEC Dataset:** MDE of 11.7 cm running at **72.8 FPS**.
 
 ### Pipeline Architecture
-*(During the interview, use this diagram to walk the panel through your Spiking Neural Network framework).*
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
