@@ -22,38 +22,48 @@ Diffusion-based image-to-image (I2I) translation excels in high-fidelity generat
 
 ### Visual Results
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/publication_preview/teaser-nodpm4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+<div style="width: 80%; margin: 0 auto;">
+    <div class="row mt-3">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.liquid loading="eager" path="assets/img/publication_preview/teaser-nodpm4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        </div>
     </div>
-</div>
-<div class="caption">
-    Figure 1: Visual comparison of DBMSolver generating high-fidelity I2I translations with significantly fewer NFEs.
 </div>
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/publication_preview/combined_diode_e2h-cam_ready_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+> **Figure 1:** Visual comparison of DBMSolver generating high-fidelity I2I translations with significantly fewer NFEs.
+
+---
+
+<div style="width: 80%; margin: 0 auto;">
+    <div class="row mt-3">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.liquid loading="eager" path="assets/img/publication_preview/combined_diode_e2h-cam_ready_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        </div>
     </div>
-</div>
-<div class="caption">
-    Figure 2: Visual comparison of DBMSolver on DIODE 256x256 and Edges2Handbags 64x64.
 </div>
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/publication_preview/CelebA-6-30-Large_half_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+> **Figure 2:** Visual comparison of DBMSolver on DIODE 256x256 and Edges2Handbags 64x64.
+
+---
+
+<div style="width: 80%; margin: 0 auto;">
+    <div class="row mt-3">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.liquid loading="eager" path="assets/img/publication_preview/CelebA-6-30-Large_half_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        </div>
     </div>
-</div>
-<div class="caption">
-    Figure 3: Visual comparison of DBMSolver on CelebAMask-HQ 256x256.
 </div>
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/publication_preview/teaser-1x6.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+> **Figure 3:** Visual comparison of DBMSolver on CelebAMask-HQ 256x256.
+
+---
+
+<div style="width: 80%; margin: 0 auto;">
+    <div class="row mt-3">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include figure.liquid loading="eager" path="assets/img/publication_preview/teaser-1x6.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        </div>
     </div>
 </div>
-<div class="caption">
-    Figure 4: 6 NFE results on CelebAMask-HQ 256x256 with DBMSolver.
-</div>
+
+> **Figure 4:** 6 NFE results on CelebAMask-HQ 256x256 with DBMSolver.
