@@ -8,6 +8,7 @@ category: Generative AI
 ---
 
 **Status:** Accepted to CVPR 2026 Main Track.
+
 *Note: Camera-ready submitted. Full paper and code repository will be made public upon the lifting of the conference embargo.*
 
 ### Project Overview
@@ -20,7 +21,6 @@ Diffusion-based image-to-image (I2I) translation excels in high-fidelity generat
 * **New SOTA:** Establishes a new state-of-the-art efficiency-quality tradeoff, enabling true real-world applicability for diffusion bridge models.
 
 ### Visual Results
-*(During the interview, use this section to discuss the details of your teaser image and implementation).*
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
