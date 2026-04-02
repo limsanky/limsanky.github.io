@@ -3,8 +3,8 @@ cv:
   label: AI Researcher
   email: sankarshana.v@gmail.com
   location: Seoul, South Korea
-  image: "assets/img/sankarshanav_pic.JPG"
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  image: "/assets/img/sankarshanav_pic.JPG"
+  summary: AI Researcher
 
   social_networks:
     - network: GitHub
@@ -35,7 +35,7 @@ cv:
         end_date: 2026
         highlights:
           - 2 Papers accepted into CVPR 2026.
-          - GPA: 4.21/4.30
+          - GPA 4.21/4.30
 
     # Experience:
     #   - company: Institute for Advanced Study, Princeton University
@@ -178,8 +178,8 @@ cv:
     References:
       - name: Professor Jonghyun Choi
         # icon: fa-solid fa-laptop
-        reference: https://ppolon.github.io/
+        reference: <a href="https://ppolon.github.io/">Professor Jonghyun Choi</a>
 
       - name: Mohammad Mostafavi, PhD
         # icon: fa-solid fa-thumbtack
-        reference: https://smmmmi.github.io/
+        reference: <a href="https://smmmmi.github.io/">Mohammad Mostafavi</a>
