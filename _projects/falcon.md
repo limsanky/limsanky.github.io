@@ -36,7 +36,7 @@ FALCON establishes a new real-time benchmark for neuromorphic vision application
 </div>
 
 <div align="center">
-  <img src="asserts/img/publication_preview/FigTeaser_wide1.jpg" alt="FALCON Teaser Figure" width="100%">
+  <img src="/assets/img/publication_preview/FigTeaser_wide1.jpg" alt="FALCON Teaser Figure" width="100%">
 </div>
 
 > **Top: Visualizing Event Representations.** Naive stacking of events over a short interval ("Short Stack," left) fails to capture scene structure. Stacking over a long interval ("Long Stack," middle) introduces severe motion blur. Our "RepNet Stack" (right), the learned output of our spiking representation network, dynamically aggregates events to preserve sharp structural details.
@@ -48,11 +48,11 @@ FALCON establishes a new real-time benchmark for neuromorphic vision application
 ### Qualitative Comparison
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <img src="asserts/img/publication_preview/sidebyside/main_rgb.jpg" alt="RGB Image" style="width: 19%;">
-  <img src="asserts/img/publication_preview/sidebyside/rose.jpg" alt="RepNet Stack" style="width: 19%;">
-  <img src="asserts/img/publication_preview/sidebyside/main_eis.jpg" alt="EI-Stereo" style="width: 19%;">
-  <img src="asserts/img/publication_preview/sidebyside/main_secff.jpg" alt="SE-CFF" style="width: 19%;">
-  <img src="asserts/img/publication_preview/sidebyside/ours.jpg" alt="FALCON (Ours)" style="width: 19%;">
+  <img src="/assets/img/publication_preview/sidebyside/main_rgb.jpg" alt="RGB Image" style="width: 19%;">
+  <img src="/assets/img/publication_preview/sidebyside/rose.jpg" alt="RepNet Stack" style="width: 19%;">
+  <img src="/assets/img/publication_preview/sidebyside/main_eis.jpg" alt="EI-Stereo" style="width: 19%;">
+  <img src="/assets/img/publication_preview/sidebyside/main_secff.jpg" alt="SE-CFF" style="width: 19%;">
+  <img src="/assets/img/publication_preview/sidebyside/ours.jpg" alt="FALCON (Ours)" style="width: 19%;">
 </div>
 
 > **Qualitative Comparison on DSEC.** We illustrate the qualitative results: RGB Images, RepNet Stacks, and Disparity Predictions of EI-Stereo, SE-CFF, and FALCON (Ours), for 3 different scenes are shown. Predictions of our model contain more detail and have sharper object shapes, while those of SE-CFF and EI-Stereo contain less detail and suffer from hazy artifacts.
