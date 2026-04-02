@@ -11,7 +11,7 @@ category: Generative AI
 
 *Note: Camera-ready submitted. Full paper and code repository will be made public upon the lifting of the conference embargo.*
 
-### Project Overview
+### Abstract
 Diffusion-based image-to-image (I2I) translation excels in high-fidelity generation but suffers from slow sampling in state-of-the-art Diffusion Bridge Models (DBMs), often requiring dozens of function evaluations (NFEs). To solve this, we introduced DBMSolver, a training-free sampler that exploits the semi-linear structure of DBM's underlying SDE and ODE via exponential integrators.
 
 ### Key Innovations & Performance
@@ -29,8 +29,9 @@ Diffusion-based image-to-image (I2I) translation excels in high-fidelity generat
         </div>
     </div>
 </div>
-
-> **Figure 1:** Visual comparison of DBMSolver generating high-fidelity I2I translations with significantly fewer NFEs.
+<div class="caption">
+    Figure 1: Visual comparison of DBMSolver generating high-fidelity I2I translations with significantly fewer NFEs.
+</div>
 
 ---
 
@@ -41,8 +42,9 @@ Diffusion-based image-to-image (I2I) translation excels in high-fidelity generat
         </div>
     </div>
 </div>
-
-> **Figure 2:** Visual comparison of DBMSolver on DIODE 256x256 and Edges2Handbags 64x64.
+<div class="caption">
+    Figure 2: Visual comparison of DBMSolver on DIODE 256x256 and Edges2Handbags 64x64.
+</div>
 
 ---
 
@@ -53,8 +55,9 @@ Diffusion-based image-to-image (I2I) translation excels in high-fidelity generat
         </div>
     </div>
 </div>
-
-> **Figure 3:** Visual comparison of DBMSolver on CelebAMask-HQ 256x256.
+<div class="caption">
+    Figure 3: Visual comparison of DBMSolver on CelebAMask-HQ 256x256.
+</div>
 
 ---
 
@@ -65,5 +68,6 @@ Diffusion-based image-to-image (I2I) translation excels in high-fidelity generat
         </div>
     </div>
 </div>
-
-> **Figure 4:** 6 NFE results on CelebAMask-HQ 256x256 with DBMSolver.
+<div class="caption">
+    Figure 4: 6 NFE results on CelebAMask-HQ 256x256 with DBMSolver.
+</div>
