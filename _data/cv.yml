@@ -24,15 +24,16 @@ cv:
         url: https://www.yonsei.ac.kr/
         area: Computer Science
         studyType: Bachelor of Science
-        start_date: 2019
-        end_date: 2023
+        start_date: Mar 2019
+        end_date: Aug 2023
 
       - institution: Yonsei University
         location: Seoul, South Korea
+        url: https://www.yonsei.ac.kr/
         area: Artificial Intelligence
         studyType: Master of Science
-        start_date: 2023
-        end_date: 2026
+        start_date: Sep 2023
+        end_date: Feb 2026
         highlights:
           - 2 Papers accepted into CVPR 2026.
           - GPA 4.21/4.30
