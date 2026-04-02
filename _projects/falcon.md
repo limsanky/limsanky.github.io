@@ -11,7 +11,7 @@ category: Event-Based Vision
 
 *Note: Full source code and manuscript will be made public upon the lifting of the conference embargo.*
 
-### Project Overview
+### Abstract
 Event-based stereo depth estimation promises high-speed, robust perception under challenging conditions. However, fusing events with intensity frames incurs heavy computational costs, hindering real-time deployment. FALCON solves this by co-designing spiking neuron dynamics with a streamlined stereo backbone.
 
 ### Key Innovations & Architecture
@@ -31,31 +31,33 @@ FALCON establishes a new real-time benchmark for neuromorphic vision application
         {% include figure.liquid loading="eager" path="assets/img/publication_preview/Fig_pipeline1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-
-> **Figure 1:** The FALCON framework, highlighting the integration of LIF neurons for rapid depth estimation.
+<div class="caption">
+    Figure 1: The FALCON framework, highlighting the integration of LIF neurons for rapid depth estimation.
+</div>
 
 ---
 
 <div align="center">
   <img src="/assets/img/publication_preview/FigTeaser_wide1.jpg" alt="FALCON Teaser Figure" width="80%">
 </div>
-
-> **Figure 2:**
-> **Top: Visualizing Event Representations.** Naive stacking of events over a short interval ("Short Stack," left) fails to capture scene structure. Stacking over a long interval ("Long Stack," middle) introduces severe motion blur. Our "RepNet Stack" (right), the learned output of our spiking representation network, dynamically aggregates events to preserve sharp structural details.
-> 
-> **Bottom: Runtime vs. Error.** Comparison of runtime (FPS) against Mean Absolute Error (MAE) on DSEC and Mean Depth Error (MDE) on MVSEC. FALCON achieves comparable or improved accuracy while significantly outperforming others in runtime. Metrics are excerpted from the respective original papers.
+<div class="caption">
+    Figure 2:<br>
+    <strong>Top: Visualizing Event Representations.</strong> Naive stacking of events over a short interval ("Short Stack," left) fails to capture scene structure. Stacking over a long interval ("Long Stack," middle) introduces severe motion blur. Our "RepNet Stack" (right), the learned output of our spiking representation network, dynamically aggregates events to preserve sharp structural details.<br><br>
+    <strong>Bottom: Runtime vs. Error.</strong> Comparison of runtime (FPS) against Mean Absolute Error (MAE) on DSEC and Mean Depth Error (MDE) on MVSEC. FALCON achieves comparable or improved accuracy while significantly outperforming others in runtime. Metrics are excerpted from the respective original papers.
+</div>
 
 ---
 
 ### Qualitative Comparison
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 80%;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 80%; margin: 0 auto;">
   <img src="/assets/img/publication_preview/sidebyside/main_rgb.jpg" alt="RGB Image" style="width: 19%;">
   <img src="/assets/img/publication_preview/sidebyside/rose.jpg" alt="RepNet Stack" style="width: 19%;">
   <img src="/assets/img/publication_preview/sidebyside/main_eis.jpg" alt="EI-Stereo" style="width: 19%;">
   <img src="/assets/img/publication_preview/sidebyside/main_secff.jpg" alt="SE-CFF" style="width: 19%;">
   <img src="/assets/img/publication_preview/sidebyside/ours.jpg" alt="FALCON (Ours)" style="width: 19%;">
 </div>
-
-> **Figure 3:**
-> **Qualitative Comparison on DSEC.** We illustrate the qualitative results: (A) RGB Images, (B) RepNet Stacks, and Disparity Predictions of (C) EI-Stereo, (D) SE-CFF, and (E) FALCON (Ours), for 3 different scenes are shown. Predictions of our model contain more detail and have sharper object shapes, while those of SE-CFF and EI-Stereo contain less detail and suffer from hazy artifacts.
+<div class="caption">
+    Figure 3:<br>
+    <strong>Qualitative Comparison on DSEC.</strong> We illustrate the qualitative results: (A) RGB Images, (B) RepNet Stacks, and Disparity Predictions of (C) EI-Stereo, (D) SE-CFF, and (E) FALCON (Ours), for 3 different scenes are shown. Predictions of our model contain more detail and have sharper object shapes, while those of SE-CFF and EI-Stereo contain less detail and suffer from hazy artifacts.
+</div>
