@@ -34,8 +34,10 @@ FALCON establishes a new real-time benchmark for neuromorphic vision application
 
 > **Figure 1:** The FALCON framework, highlighting the integration of LIF neurons for rapid depth estimation.
 
+---
+
 <div align="center">
-  <img src="/assets/img/publication_preview/FigTeaser_wide1.jpg" alt="FALCON Teaser Figure" width="100%">
+  <img src="/assets/img/publication_preview/FigTeaser_wide1.jpg" alt="FALCON Teaser Figure" width="80%">
 </div>
 
 > **Figure 2:**
@@ -47,7 +49,7 @@ FALCON establishes a new real-time benchmark for neuromorphic vision application
 
 ### Qualitative Comparison
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 80%;">
   <img src="/assets/img/publication_preview/sidebyside/main_rgb.jpg" alt="RGB Image" style="width: 19%;">
   <img src="/assets/img/publication_preview/sidebyside/rose.jpg" alt="RepNet Stack" style="width: 19%;">
   <img src="/assets/img/publication_preview/sidebyside/main_eis.jpg" alt="EI-Stereo" style="width: 19%;">
