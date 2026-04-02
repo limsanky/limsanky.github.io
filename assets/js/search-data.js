@@ -496,6 +496,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-dbmsolver",
+          title: 'DBMSolver',
+          description: "A Training-free Diffusion Bridge Sampler for High-Quality Image-to-Image Translation.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dbmsolver/";
+            },},{id: "projects-falcon",
+          title: 'FALCON',
+          description: "Fast Adaptive Lightweight Computation of Intensities and Events for Depth Estimation.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/falcon/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
