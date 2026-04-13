@@ -7,6 +7,10 @@ importance: 1
 category: Generative AI
 ---
 
+*🌐 [🇰🇷 한국어로 읽기 (Read in Korean)](ko/)*
+
+---
+
 **Status:** Accepted to CVPR 2026 Main Track.
 
 *Note: Camera-ready submitted. Full paper and code repository will be made public upon the lifting of the conference embargo.*

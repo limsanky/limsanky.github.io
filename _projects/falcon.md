@@ -7,6 +7,10 @@ importance: 2
 category: Event-Based Vision
 ---
 
+*🌐 [🇰🇷 한국어로 읽기 (Read in Korean)](ko/)*
+
+---
+
 **Status:** Accepted to CVPR 2026 Findings Track.
 
 *Note: Full source code and manuscript will be made public upon the lifting of the conference embargo.*
