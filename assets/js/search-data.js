@@ -414,11 +414,21 @@ ninja.data = [{
           description: "A Training-free Diffusion Bridge Sampler for High-Quality Image-to-Image Translation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dbmsolver/";
+            },},{id: "projects-dbmsolver",
+          title: 'DBMSolver',
+          description: "고품질 이미지 변환을 위한 디퓨전 브릿지 샘플러 (Training-free Diffusion Bridge Sampler).",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dbmsolver/ko/";
             },},{id: "projects-falcon",
           title: 'FALCON',
           description: "Fast Adaptive Lightweight Computation of Intensities and Events for Depth Estimation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/falcon/";
+            },},{id: "projects-falcon",
+          title: 'FALCON',
+          description: "깊이 추정을 위한 빠르고 적응적인 강도 및 이벤트 연산 프레임워크.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/falcon/ko/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
