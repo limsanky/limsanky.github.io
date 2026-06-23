@@ -5,6 +5,7 @@ on:
     branches:
       - master
       - main
+      - add_links
     paths:
       - "assets/**"
       - "_sass/**"
