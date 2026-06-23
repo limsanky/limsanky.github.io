@@ -26,7 +26,7 @@ latest_posts:
 ---
 
 Hi!
-I am an AI Researcher specializing in generative models and event-based vision. I recently completed my M.S. in Artificial Intelligence at Yonsei University, and currently serve as a Graduate Researcher at Seoul National University's Machine Perception and Reasoning Lab. 
+I am an AI Researcher specializing in generative models and event-based vision. I recently completed my M.S. in Artificial Intelligence at Yonsei University, and served as a Graduate Researcher at Seoul National University's Machine Perception and Reasoning Lab. 
 
 My primary research focuses on mathematically deriving and implementing training-free sampling algorithms to significantly accelerate inference times in diffusion models. Recently, my work on DBMSolver, a novel diffusion bridge sampler for high-quality image-to-image translation, was accepted to the main track of CVPR 2026. I also have extensive experience building robust data processing and feature extraction pipelines in PyTorch for asynchronous event-based vision data, as demonstrated in my CVPR 2026 Findings paper, FALCON.
 
